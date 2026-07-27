@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ons Ahmadi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Software+Engineering+Enthusiast;AI+%26+Machine+Learning+Explorer;Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;specializing+in+Software +Engineering;AI+%26+Machine+Learning+Explorer;Full-Stack+Developer" alt="Typing SVG" />
   <br/>
   <img src="https://media.giphy.com/media/SBv9nsvw3D9RGtI0Cs/giphy.gif" width="45" />
 </p>
@@ -103,14 +103,6 @@ Collection of Java practical exercises and object-oriented programming projects.
 
 Software Engineering · Artificial Intelligence · Machine Learning · Deep Learning · Full-Stack Development · Research · Open Source
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ONS-AHMADI-06&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ONS-AHMADI-06&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
