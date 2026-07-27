@@ -56,7 +56,6 @@ personal, and AI-related projects.
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-
 **🗄️ Database**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -112,7 +111,6 @@ Android scientific calculator application.
 - Calculation history
 - Modern user interface
 
-
 #### ☕ Java Programming Projects
 Collection of Java practical exercises and object-oriented programming projects.
 
@@ -134,7 +132,7 @@ Collection of Java practical exercises and object-oriented programming projects.
 ### 📜 Certifications
 
 - ✅ NVIDIA – Deep Learning Fundamentals
-- ✅ IBM – Generative AI 
+- ✅ IBM – Generative AI
 
 ---
 
@@ -144,17 +142,13 @@ Software Engineering · Artificial Intelligence · Machine Learning · Deep Lear
 
 ---
 
----
- 
 ### 📊 GitHub Stats
- 
+
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ONS-AHMADI-06&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ONS-AHMADI-06&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ONS-AHMADI-06&theme=tokyonight&hide_border=true" />
-</p>
+
 ---
 
 ### 📫 Contact Me
