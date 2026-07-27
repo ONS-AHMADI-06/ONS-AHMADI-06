@@ -134,11 +134,7 @@ Collection of Java practical exercises and object-oriented programming projects.
 ### 📜 Certifications
 
 - ✅ NVIDIA – Deep Learning Fundamentals
-- 🔄 IBM – Generative AI *(en cours)*
-- 🔄 Cisco – Introduction to Modern AI *(en cours)*
-- 🔄 Kaggle – Machine Learning *(en cours)*
-- 🔄 freeCodeCamp – Python *(en cours)*
-- 🔄 Udemy – Web Development *(en cours)*
+- ✅ IBM – Generative AI 
 
 ---
 
@@ -148,17 +144,17 @@ Software Engineering · Artificial Intelligence · Machine Learning · Deep Lear
 
 ---
 
+---
+ 
 ### 📊 GitHub Stats
-
+ 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ONS-AHMADI-06&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ONS-AHMADI-06&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ONS-AHMADI-06&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=ONS-AHMADI-06&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 ### 📫 Contact Me
