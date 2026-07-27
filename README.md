@@ -49,14 +49,13 @@ personal, and AI-related projects.
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 **⚙️ Back-End**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+
 
 **🗄️ Database**
 
@@ -113,16 +112,6 @@ Android scientific calculator application.
 - Calculation history
 - Modern user interface
 
-#### 🍎 Fruit Classification using Deep Learning
-Image classification project completed during NVIDIA Deep Learning Fundamentals.
-
-**Technologies:** Python · PyTorch · VGG16 · Transfer Learning
-
-**Features:**
-- Fresh vs Rotten Fruits classification
-- Image preprocessing
-- Model training
-- Performance evaluation
 
 #### ☕ Java Programming Projects
 Collection of Java practical exercises and object-oriented programming projects.
