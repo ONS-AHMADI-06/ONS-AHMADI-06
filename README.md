@@ -100,10 +100,10 @@ Software Engineering · Artificial Intelligence · Machine Learning · Deep Lear
 
 
 ### 📫 Contact Me
-
+ 
 <p align="center">
   <a href="https://www.linkedin.com/in/ons-ahmadi-999650328/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="35" width="35" style="border-radius:50%;" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35" width="35" style="border-radius:50%;" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:ahmadions@fstsbz.u-kairouan.tn">
