@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ons Ahmadi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;specializing+in+Software +Engineering;AI+%26+Machine+Learning+Explorer;Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;specializing+in+Software+Engineering;AI+%26+Machine+Learning+Explorer;Full-Stack+Developer" alt="Typing SVG" />
   <br/>
   <img src="https://media.giphy.com/media/SBv9nsvw3D9RGtI0Cs/giphy.gif" width="45" />
 </p>
