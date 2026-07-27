@@ -20,8 +20,8 @@
 
 ### 👩‍💻 About Me
 
-Computer Science Student passionate about Software Engineering,
-Artificial Intelligence and Full-Stack Development.
+Computer Science Student specializing in Software Engineering,
+with a strong interest in Artificial Intelligence and Full-Stack Development.
 
 I enjoy designing software solutions, building web applications,
 and exploring Machine Learning and Deep Learning through practical projects.
