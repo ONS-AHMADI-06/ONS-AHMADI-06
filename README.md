@@ -2,12 +2,12 @@
 <h3 align="center">Computer Science Student | Software Engineering | AI & Machine Learning</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ons-ahmadi-999650328/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="35" width="35" style="border-radius:50%;" />
+  <a href="https://github.com/ONS-AHMADI-06" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:ahmadions@fstsbz.u-kairouan.tn">
-    <img src="https://cdn.simpleicons.org/gmail/D14836" height="35" width="35" style="border-radius:50%;" />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ons-ahmadi-999650328/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
 </p>
 
@@ -33,56 +33,24 @@ personal, and AI-related projects.
 
 ---
 
-### 🛠️ Tech Stack
+### 📚 Currently Learning
 
-**💻 Programming Languages**
+- Strengthening my problem-solving skills in **Algorithms and Data Structures**
+- Improving my understanding of **Object-Oriented Programming (OOP)** with **Java**
+- Learning the basics of **Web Development** (**HTML**, **CSS**, and **JavaScript**)
+- Exploring **Database Management Systems** (**PostgreSQL**, **SQL**)
+- Practicing **Version Control** using **Git** and **GitHub**
+- Studying **Machine Learning & Artificial Intelligence**
+- Developing skills in **Web & Full-Stack Development**
+- Exploring **Deep Learning & Generative AI**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+---
 
-**🌐 Front-End**
+### 🛠️ Technologies & Tools
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-**⚙️ Back-End**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-**🗄️ Database**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-**🤖 Artificial Intelligence**
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-4B8BBE?style=flat-square)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C2D91?style=flat-square)
-![Generative AI](https://img.shields.io/badge/Generative_AI-10A37F?style=flat-square)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-**🛠️ Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,angular,spring,postgres,git,github,vscode,eclipse,idea,androidstudio,postman" />
+</p>
 
 ---
 
@@ -119,17 +87,6 @@ Collection of Java practical exercises and object-oriented programming projects.
 
 ---
 
-### 📚 Currently Learning
-
-- Machine Learning
-- Deep Learning
-- Data Science
-- Generative AI
-- Web Development
-- Android Development
-
----
-
 ### 📜 Certifications
 
 - ✅ NVIDIA – Deep Learning Fundamentals
@@ -154,7 +111,12 @@ Software Engineering · Artificial Intelligence · Machine Learning · Deep Lear
 
 ### 📫 Contact Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ons-ahmadi-999650328/" target="_blank">LinkedIn</a> •
-  <a href="mailto:ahmadions@fstsbz.u-kairouan.tn">Email</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ons-ahmadi-999650328/" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="35" width="35" style="border-radius:50%;" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:ahmadions@fstsbz.u-kairouan.tn">
+    <img src="https://cdn.simpleicons.org/gmail/D14836" height="35" width="35" style="border-radius:50%;" />
+  </a>
 </p>
