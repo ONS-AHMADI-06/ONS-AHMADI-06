@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ons Ahmadi</h1>
-<h3 align="center">Computer Science Student | Software Engineering | AI & Machine Learning</h3>
+<h1 align="center">Bonjour 👋, je suis Ons Ahmadi</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%C3%89tudiante+en+informatique;G%C3%A9nie+Logiciel;IA+%26+Apprentissage+Automatique;D%C3%A9veloppeuse+Full-Stack" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://github.com/ONS-AHMADI-06" target="_blank">
@@ -98,9 +101,19 @@ Collection of Java practical exercises and object-oriented programming projects.
 
 Software Engineering · Artificial Intelligence · Machine Learning · Deep Learning · Full-Stack Development · Research · Open Source
 
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ONS-AHMADI-06&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ONS-AHMADI-06&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 
 ### 📫 Contact Me
- 
+
 <p align="center">
   <a href="https://www.linkedin.com/in/ons-ahmadi-999650328/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="35" width="35" style="border-radius:50%;" />
