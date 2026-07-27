@@ -2,6 +2,8 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Software+Engineering+Enthusiast;AI+%26+Machine+Learning+Explorer;Full-Stack+Developer" alt="Typing SVG" />
+  <br/>
+  <img src="https://media.giphy.com/media/SBv9nsvw3D9RGtI0Cs/giphy.gif" width="45" />
 </p>
 
 <p align="center">
@@ -16,10 +18,6 @@
 
 ---
 
-<table>
-<tr>
-<td width="65%" valign="top">
-
 ### 👩‍💻 About Me
 
 Computer Science Student passionate about Software Engineering,
@@ -29,13 +27,6 @@ I enjoy designing software solutions, building web applications,
 and exploring Machine Learning and Deep Learning through practical projects.
 I am continuously improving my technical skills by working on academic,
 personal, and AI-related projects.
-
-</td>
-<td width="35%" valign="top">
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" />
-</td>
-</tr>
-</table>
 
 ---
 
